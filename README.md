@@ -1,4 +1,5 @@
 # Javascript Algorithms
+## Ben Greenberg
 
 # Introduction
 
